@@ -1,11 +1,11 @@
 type: GenericCrafter
-name: rezina Smelter
-description: oil.
+name: Rubber Smelter
+description: Mixes sulfur, latex [gray]and maybe even gelatin []to make elastic rubber.
 liquidCapacity: 20
 size: 3
 hasPower: true
 hasItems: true
-hasliquid: trur
+hasliquid: true
 craftTime: 60
 flameColor: e99f99
 updateEffect: steam
@@ -29,7 +29,7 @@ requirements: [
   copper/110
 ]
 category: crafting
-research: duo
+research: silicon-smelter
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: rubber/1
